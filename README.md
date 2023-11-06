@@ -1,6 +1,6 @@
 # bjbz
 Download for BZBJ.
-
+https://github.com/liuenyin/bjbz/releases
 ## Version 0
 Updates:
 - Just got interesed in game developing! Starting to learn unity. Hope you can give advice on this small project:D
